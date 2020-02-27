@@ -1,6 +1,6 @@
-* [开始](README)
-* [定制主题](theme)
-* [更新日志](changeLog)
+* [开始](README.md)
+* [定制主题](theme.md)
+* [更新日志](changeLog.md)
 * 组件
-  * [按钮](button)
+  * [按钮](button.md)
 
