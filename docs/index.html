@@ -14,9 +14,15 @@
     window.$docsify = {
       name: 'webcomponent-ui',
       repo: '',
-      loadSidebar: true
+      loadSidebar: true,
+      search: {
+        noData: '找不到结果',
+        paths: 'auto',
+        placeholder: '搜索'
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
 </body>
 </html>
